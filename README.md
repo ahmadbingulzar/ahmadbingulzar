@@ -1,11 +1,11 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://twitter.com/https://ahmadbingulzar">
+<a href="https://twitter.com//ahmadbingulzar">
   <img align="left" alt="Ahmad | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/ali-ahmad-538a42210/">
   <img align="left" alt="Ahmad's  LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/ali.ahmad18/">
+<a href="https://www.instagram.com/ahmadbingulzar/">
   <img align="left" alt="Ahmad's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <br />
@@ -29,8 +29,7 @@ About Me
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
+
 C++ 112 hours ███▓░░░░░░░░░░░░░░░░░   80.04 % 
 <!--END_SECTION:waka-->
 Last Edited on: 14/7/2021
