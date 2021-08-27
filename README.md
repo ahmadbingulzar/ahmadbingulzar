@@ -41,6 +41,7 @@ About Me
   <li>css</li>
   <li>javascript</li>
   <li>ERD</li>
+  <li>Mysql</li>
   <li>web work flow</li>
   </ul>
 <!--END_SECTION:waka-->
