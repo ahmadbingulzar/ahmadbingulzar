@@ -34,5 +34,14 @@ About Me
   <li>html 18 hours  ███▓░░░░░░░░░░░░░░░░░   75.04 %</li> 
   <li>Css  10 hours  ███▓░░░░░░░░░░░░░░░░░   60.04 % </li>
   </ul>
+  </h3>Current learnings</h3>
+  <ul>
+  <li>c++</li>
+  <li>HTML</li>
+  <li>css</li>
+  <li>javascript</li>
+  <li>ERD</li>
+  <li>web work flow</li>
+  </ul>
 <!--END_SECTION:waka-->
 Last Edited on: 14/8/2021
