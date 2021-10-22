@@ -40,6 +40,7 @@ About Me
   </h3>Current learnings</h3>
   <ul>
   <li>c++</li>
+  <li>PHP</li>
   <li>HTML</li>
   <li>css</li>
   <li>javascript</li>
