@@ -46,6 +46,7 @@ About Me
   <li>javascript</li>
   <li>ERD</li>
   <li>Mysql</li>
+  <li>Send Grid</li>
   <li>web work flow</li>
   </ul>
 <!--END_SECTION:waka-->
