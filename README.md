@@ -41,6 +41,9 @@ About Me
   <ul>
   <li>c++</li>
   <li>PHP</li>
+  <li>Laravel</li>
+  <li>vue 3</li>
+  <li>Type Script</li>
   <li>HTML</li>
   <li>css</li>
   <li>javascript</li>
