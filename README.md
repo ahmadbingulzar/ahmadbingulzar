@@ -1,57 +1,61 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://twitter.com//ahmadbingulzar">
-  <img align="left" alt="Ahmad | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
-<a href="https://www.linkedin.com/in/ali-ahmad-538a42210/">
-  <img align="left" alt="Ahmad's  LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/ahmadbingulzar/">
-  <img align="left" alt="Ahmad's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<br />
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-About Me 
+<h1 align="center">Hi 👋, I'm Ahmad <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<h3 align="center">Always Wired In</h3>
 
-- 👋 Hi, I’m undergraduate student at university of central punjab and i am persuing my degree in software engineering .
+- 🔭 I’m currently working on my **Laravel/Vue**
 
-- 👀 I’m interested and passinate to be a part of google summer of code 
+- 🌱 I’m currently learning **Nothing But Code**
 
-- 🌱 I’m currently learning c++ and improving my communication skills 
+- 📫 How to reach me: **ahamdbingulzar@gmail.com**
 
-- 💞️ i switched from windows to linux
+- ⚡ What I like to do: **I like so much basketball and ...and coding of course**
 
-- 📫 Anyone interested to learn something or wanted to teach me about my code can reach me through links above.
+<h3 align="center">Connect with me:</h3>
+<div align="center">
 
-**Languages and Tools:**  
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-ahmad-538a42210/)
+[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ahmadbingulzar/)
+[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com//ahmadbingulza)  
+</div>
 
-<code><img height="20" src="https://daylifetips.com/wp-content/uploads/2021/01/linux-use.png"></code>
-<code><img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT01LtUESYI0YsYu6FUt94u5BYNgAXINfR3Eg&usqp=CAU"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<h3 align="center">Languages and Tools:</h3>
 
-📊 **This Week I Spent My Time On:**
-<ul>
-  <li>C++        112 hours ███▓░░░░░░░░░░░░░░░░░   80.04 % </li>
-  <li>html       18 hours  ███▓░░░░░░░░░░░░░░░░░   75.04 %</li> 
-  <li>Css        10 hours  ███▓░░░░░░░░░░░░░░░░░   60.04 % </li>
-  <li>bootstrap  10 hours  ███▓░░░░░░░░░░░░░░░░░   60.04 % </li>
-  <li>php        10 hours  ███▓░░░░░░░░░░░░░░░░░   60.04 % </li>
-  <li>mysql      10 hours  ███▓░░░░░░░░░░░░░░░░░   60.04 % </li>
-  </ul>
-  </h3>Current learnings</h3>
-  <ul>
-  <li>c++</li>
-  <li>PHP</li>
-  <li>Laravel</li>
-  <li>vue 3</li>
-  <li>Type Script</li>
-  <li>HTML</li>
-  <li>css</li>
-  <li>javascript</li>
-  <li>ERD</li>
-  <li>Mysql</li>
-  <li>Send Grid</li>
-  <li>web work flow</li>
-  <li>PHP mess detactor</li>
-</ul>
-<!--END_SECTION:waka-->
-Last Edited on: 14/8/2021
+<p align="center">  
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.linux.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+  </a> 
+  <a href="https://git-scm.com/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a>
+    <a href="https://git-scm.com/" target="_blank"> 
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" alt="git width="40" height="40" />
+  </a>
+      <a href="https://git-scm.com/" target="_blank"> 
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"  alt="git width="40" height="40" />
+  </a>
+       
+ <a href="https://git-scm.com/" target="_blank"> 
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"   alt="git width="40" height="40" />
+  </a>
+
+          
+          
+</p>
+
+<p align= "center">
+  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=BrantLauro&theme=react&show_icons=true&include_all_commits=true" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrantLauro&theme=react&layout=compact" />
+</p>
+
+------
+
+[BrantLauro](https://github.com/BrantLauro)
+
+Last Edited on: 02/09/2022
