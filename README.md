@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Nothing But Code**
 
-- 📫 How to reach me: **ahamdbingulzar@gmail.com**
+- 📫 For any feature request ping me here: **ahamdbingulzar@gmail.com**
 
 - ⚡ What I like to do: **I like so much basketball and ...and coding of course**
 
